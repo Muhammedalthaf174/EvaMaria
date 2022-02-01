@@ -65,7 +65,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/muhammedalthaf174/evamaria
+git clone https://github.com/Muhammedalthaf174/Evamaria
 # Install Packages
 pip3 install -r requirements.txt
 Edit info.py with variables as given below then run bot
